@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="200px" viewBox="0 0 350 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <polygon id="Fill-8" fill="#2A2A2A" opacity="0" points="0 200 350 200 350 0 0 0"></polygon>
+            <text id="Vera" font-family="AndaleMono, Andale Mono" font-size="95" font-weight="normal" fill="#FFFFFF">
+                <tspan x="55.2447992" y="119.765258">Vera</tspan>
+                <tspan x="283.281909" y="119.765258" font-size="60"> </tspan>
+            </text>
+            <rect id="Rectangle" stroke="#FFFFFF" x="38.5234414" y="18.6690141" width="279" height="151"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" x="31.0137157" y="9.842723" width="279" height="147"></rect>
+        </g>
+    </g>
+</svg>
